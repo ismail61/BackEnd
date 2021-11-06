@@ -1,0 +1,9 @@
+
+.py-2{
+    color: rgb(66, 226, 18);
+    text-decoration: none;
+}
+.py-2:hover{
+    color :rgb(147, 224, 235);
+    text-decoration: none;
+}
